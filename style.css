@@ -1,0 +1,50 @@
+h1{
+  align-self: center;
+  text-align: center;
+  }
+h2{
+  align-self: center;
+  text-align: center;
+  color:#555;
+  }
+  .footer{
+    margin: 1000 auto;
+    background-color: #1B1D1F;
+    color: white;
+    flex: 1;
+    text-align: center;
+  }
+  p,h2{
+    text-align: center;
+  }
+  body{
+    background-color: #FCFFE9;
+  }
+  a:link{
+    color: #0000EE;
+    margin: 10px;
+  }
+  a:visited{
+    color: #609;
+    margin: 10px;
+  }
+  .table-box{
+    margin: 30px auto;
+  }
+  .table-row{
+    margin: 10px auto;
+    width: 80%;
+    display: table;
+    font-family: sans-serif;
+    background: transparent;
+    padding: 12px 0;
+    color: #555;
+    background-color: #FFF2CC;
+    font-size: 13px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+  }
+  .sub{
+    align-self: center;
+    text-align: center;
+    color: #55555a;
+  }
